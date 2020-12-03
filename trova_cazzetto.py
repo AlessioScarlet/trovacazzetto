@@ -17,5 +17,5 @@ while 1:
         print("vedo il cazzetto")
         time.sleep(0.5)
     else:
-        print("DOV'è IL CAZZETTO?!?!?")
+        print("DOV'È IL CAZZETTO?!?!?")
         time.sleep(0.5)
