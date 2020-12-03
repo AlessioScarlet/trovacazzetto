@@ -8,9 +8,6 @@ Created on Sun Oct 18 23:37:33 2020
 from pyautogui import *
 import pyautogui
 import time
-import keyboard
-import random
-import win32api, win32con
 
 while 1:
     if pyautogui.locateOnScreen('cazzetto.png', confidence=0.8) != None:
